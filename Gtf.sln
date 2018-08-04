@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gtf", "Gtf\Gtf.csproj", "{51A103D6-C867-4010-93BA-F5854BA1BF3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gft.Test", "Gft.Test\Gft.Test.csproj", "{3A9DD727-AFBC-48EA-9376-192B5CD89C47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51A103D6-C867-4010-93BA-F5854BA1BF3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A103D6-C867-4010-93BA-F5854BA1BF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A103D6-C867-4010-93BA-F5854BA1BF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A103D6-C867-4010-93BA-F5854BA1BF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A9DD727-AFBC-48EA-9376-192B5CD89C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A9DD727-AFBC-48EA-9376-192B5CD89C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A9DD727-AFBC-48EA-9376-192B5CD89C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A9DD727-AFBC-48EA-9376-192B5CD89C47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
